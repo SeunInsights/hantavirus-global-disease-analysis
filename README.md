@@ -38,7 +38,8 @@ therapeutic development across 25 countries.
 
 ## Dashboard Preview
 
-![Hantavirus Analytics Dashboard](dashboard.png)
+<img width="1295" height="745" alt="image" src="https://github.com/user-attachments/assets/73d507fd-4c68-413f-b46d-cb64cc5b86b3" />
+
 
 ## Skills Demonstrated
 
